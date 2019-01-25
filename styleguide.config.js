@@ -1,5 +1,6 @@
 
 module.exports = {
+  styleguideDir: 'website/gatsby-site/public/styleguide',
   webpackConfig: {
     module: {
       rules: [
