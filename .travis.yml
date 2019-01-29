@@ -12,4 +12,3 @@ install: yarn install
 script:
   - yarn run lint
   - yarn run coveralls
-  - yarn run build
