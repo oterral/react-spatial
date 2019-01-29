@@ -4,6 +4,8 @@
 [![build](https://travis-ci.com/geops/react-spatial.svg?branch=master)](https://travis-ci.com/geops/react-spatial)
 [![Greenkeeper badge](https://badges.greenkeeper.io/geops/react-spatial.svg)](https://greenkeeper.io/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Coveralls](https://coveralls.io/repos/github/oterral/react-spatial/badge.svg?branch=master)](https://coveralls.io/github/oterral/react-spatial/?branch=master)
+[![Codecov](https://codecov.io/gh/oterral/react-spatial/branch/master/graphs/badge.svg?branch=master)](https://codecov.io/gh/oterral/react-spatial/branch/master/)
 
 This library provides React components to build web applications based on [OpenLayers](https://openlayers.org/).
 
